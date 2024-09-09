@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Story book",
+    "title": "no gain , no love",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1725883259~exp=1725886859~hmac=730e551127331aa71c05651c45cd1eea20ae85de565393e9769e47fa1cbef83b&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Drama book",
+    "title": "no gain , no love",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1725883259~exp=1725886859~hmac=730e551127331aa71c05651c45cd1eea20ae85de565393e9769e47fa1cbef83b&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Horror book",
+    "title": "no gain , no love",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1725883259~exp=1725886859~hmac=730e551127331aa71c05651c45cd1eea20ae85de565393e9769e47fa1cbef83b&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Comics book",
+    "title": "no gain , no love",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1725883259~exp=1725886859~hmac=730e551127331aa71c05651c45cd1eea20ae85de565393e9769e47fa1cbef83b&w=740"
+  },
+  {
+    "id": 5,
+    "name": "DC book",
+    "title": "no gain , no love",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1725883259~exp=1725886859~hmac=730e551127331aa71c05651c45cd1eea20ae85de565393e9769e47fa1cbef83b&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Marvel book",
+    "title": "no gain , no love",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1725883259~exp=1725886859~hmac=730e551127331aa71c05651c45cd1eea20ae85de565393e9769e47fa1cbef83b&w=740"
+  }
+]
